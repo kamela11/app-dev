@@ -3,7 +3,7 @@ My first repository
 
 # Favorite Series 1
 ## FRIENDS 
-![FRIENDS IMG](FRIENDS.jpg)
+![FRIENDS image](FRIENDS.jpg)
 
 >""Because a promise between friends means never having to give a reason."
 
@@ -14,7 +14,7 @@ My first repository
 
 # Favorite Series 2
 # HOW TO GET AWAY WITH MURDER
-![MURDER IMG](Murder.jpg)
+![MURDER image](Murder.jpg)
 
 >" “We’re all bad people. That’s the only thing we have in common.” ― Bonnie
 
